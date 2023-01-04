@@ -9,7 +9,7 @@ Also, prepare for the presentation by summarizing three CS-related interview que
 The presentation will be randomly presented one coding test and one CS interview question at a time as well as the summary.
 
 The Text book List
-1. Database: Real MySQL(undecided)
+1. Database: Real MySQL
 2. Operating System: Operating Systems: Three Easy Pieces
 3. Network: Computer Networks and Internets (Sixth Edition)
 4. Data Structure: 파이썬으로 쉽게 풀어쓴 자료구조
